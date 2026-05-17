@@ -1,0 +1,982 @@
+{
+  "products": [
+    {
+      "name": "Jbl Flip Negra",
+      "price": "40.0",
+      "description": "Categoría: JBL Flip",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Jbl Flip Roja",
+      "price": "40.0",
+      "description": "Categoría: JBL Flip",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Jbl Flip Azul",
+      "price": "40.0",
+      "description": "Categoría: JBL Flip",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Jbl Flip Verde",
+      "price": "40.0",
+      "description": "Categoría: JBL Flip",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Jbl Flip Verde Militar",
+      "price": "40.0",
+      "description": "Categoría: JBL Flip",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Extreme Cuatro Negra",
+      "price": "100.0",
+      "description": "Categoría: JBL Extreme",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Extreme Cuatro Roja",
+      "price": "100.0",
+      "description": "Categoría: JBL Extreme",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Extreme Cuatro Verde Militar",
+      "price": "100.0",
+      "description": "Categoría: JBL Extreme",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gorros Guchi Marron",
+      "price": "20.0",
+      "description": "Categoría: Gorros",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gorros Guchi Negro",
+      "price": "20.0",
+      "description": "Categoría: Gorros",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Aspiradora Verde",
+      "price": "15.0",
+      "description": "Categoría: Aspiradora",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Aspiradora Rosado",
+      "price": "15.0",
+      "description": "Categoría: Aspiradora",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Aspiradora Roja",
+      "price": "15.0",
+      "description": "Categoría: Aspiradora",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Airpods Pro 2",
+      "price": "35.0",
+      "description": "Categoría: Airpods",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Airpods Pro 3",
+      "price": "35.0",
+      "description": "Categoría: Airpods",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Airpods 4",
+      "price": "35.0",
+      "description": "Categoría: Airpods",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Airpods Segunda Generacion",
+      "price": "30.0",
+      "description": "Categoría: Airpods",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Airpods Max Purpura",
+      "price": "130.0",
+      "description": "Categoría: Airpods Max",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Airpods Max Negro",
+      "price": "130.0",
+      "description": "Categoría: Airpods Max",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Airpods Max Azul",
+      "price": "130.0",
+      "description": "Categoría: Airpods Max",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Airpods Max Dorado",
+      "price": "130.0",
+      "description": "Categoría: Airpods Max",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Airpods Max Naranja",
+      "price": "130.0",
+      "description": "Categoría: Airpods Max",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Airpods Max Plateado",
+      "price": "130.0",
+      "description": "Categoría: Airpods Max",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Vasos Stanley Naranja",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Gris",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Carne",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Azul",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Verde Militar",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Vasos Stanley Morado",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Blanco",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Rosado",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Vasos Stanley Negro",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Vasos Stanley Verde Claro",
+      "price": "15.0",
+      "description": "Categoría: Vasos Stanley",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Contenedor De Alimentos",
+      "price": "15.0",
+      "description": "Categoría: Contenedor",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Proyectores",
+      "price": "40.0",
+      "description": "Categoría: Proyector",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Tablets Con Mouse",
+      "price": "80.0",
+      "description": "Categoría: Tablet Grande",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Tablets De Nino",
+      "price": "50.0",
+      "description": "Categoría: Tablet Pequena",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Dyson Azul",
+      "price": "130.0",
+      "description": "Categoría: Dyson",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Dyson Rosado",
+      "price": "130.0",
+      "description": "Categoría: Dyson",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "9Pm Originales",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Tom Ford Fucking",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Tom Ford Wood",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Tom Ford Rose",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Tom Ford Ombre",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Haramain",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "One Million Gold",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "One Million Elixir",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "One Million Royal",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Sauvage Dior Parfum",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Sauvage Elixir Dior",
+      "price": "60.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Mandarin Sky",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Club De Nuit Intense",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Club De Nuit Imperiale",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Club De Nuit Milestone",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Asad Lattafa Rosa",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Asad Lattafa Black",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Asad Lattafa Fucsia",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Asad Lattafa Marron",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Asad Lataffa Blanco",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Kamrah Marron",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Kamrah Negro",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Odyssey Spectra",
+      "price": "30.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Miss Dior",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Dior Homme",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Set Dior",
+      "price": "60.0",
+      "description": "Categoría: Set Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Paradoxe Prada",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Her Confession",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Coco Chanel",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Chance Chanel Parfum",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Chance Chanel Toilette",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Chanel Paris N5",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Chanel Gabriel",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Bleu De Chanel",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Chanel Eau Fraiche",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Versace Bright Crystal",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Versace Eros Toilette",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Versace Eros Parfum",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Versace Eros Flame",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Versace Eros Mujer",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Imagination Lv",
+      "price": "60.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Pacific Chill Lv",
+      "price": "60.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Creed Irish Tweed",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Creed Silver 100Ml",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Creed Silver 120Ml",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Creed Absolu",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Aventus Creed 100Ml",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Aventus Creed 120Ml",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Azzaro",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Phantom Rabanne",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Fame Rabanne",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Invictus Rabanne",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Paco Rabanne",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Fantasy",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Intensa",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Extradose",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Toilette",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Donna Yellow",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Donna Intense",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Valentino Donna Parfum",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Moschino",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Libre Toilette",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Black Opium",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Mon Paris",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Jean Paul Gaultier",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Jean Paul Paradise",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Jean Paul Marron",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Gucci Bloom",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Sondos Lattafa",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "My Burberry",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Baccarat",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Good Girl Rojo",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Good Girl Blanco",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Dos Doce",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Dolce Gabbana",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Daisy Dream",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Nomeau De Parfum",
+      "price": "40.0",
+      "description": "Categoría: Perfume",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Gafas Chanel",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Lentes Gucci",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Carrera",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Pradas Blancos",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Pradas Negro Claros",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Pradas Negro Obscuros",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Prada Varios",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Cartier Varios",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Versace Lentes",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Miu Miu Negro Gruesos",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Miu Miu Verde",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Miu Miu Marron",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Miu Miu Morado",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Miu Miu Negro",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gafas Miu Miu Gris",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Ray Ban",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Louis Vuitton Lentes",
+      "price": "40.0",
+      "description": "Categoría: Lentes",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Usb C To Lightning 1M",
+      "price": "15.0",
+      "description": "Categoría: Cargador",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cajita De Cargador Tipo C",
+      "price": "15.0",
+      "description": "Categoría: Cargador",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Cargador Completo",
+      "price": "15.0",
+      "description": "Categoría: Cargador",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Usb C To C 1M",
+      "price": "15.0",
+      "description": "Categoría: Cargador",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Usbc To Lightning 2M",
+      "price": "15.0",
+      "description": "Categoría: Cargador",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Bateria",
+      "price": "25.0",
+      "description": "Categoría: Bateria",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cargador Magnetico",
+      "price": "15.0",
+      "description": "Categoría: Cargador",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Reloj Moissanite",
+      "price": "600.0",
+      "description": "Categoría: reloj",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Reloj De Hombres",
+      "price": "120.0",
+      "description": "Categoría: Reloj",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Reloj De Mujeres",
+      "price": "120.0",
+      "description": "Categoría: Reloj",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cajas Rolex",
+      "price": "30.0",
+      "description": "Categoría: Cajas",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cajas Patek",
+      "price": "30.0",
+      "description": "Categoría: Cajas",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cajas Cartier",
+      "price": "30.0",
+      "description": "Categoría: Cajas",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cajas Ap",
+      "price": "30.0",
+      "description": "Categoría: Cajas",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cajas Tag",
+      "price": "30.0",
+      "description": "Categoría: Cajas",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Billeteras Louis Vuitton",
+      "price": "40.0",
+      "description": "Categoría: Billetera",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cartera Miu Miu",
+      "price": "80.0",
+      "description": "Categoría: Cartera",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Carteras Louis Vuitton",
+      "price": "80.0",
+      "description": "Categoría: Cartera",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Carteras Coach",
+      "price": "80.0",
+      "description": "Categoría: Cartera",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Carteras Sly",
+      "price": "80.0",
+      "description": "Categoría: Cartera",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Bolsos Burberry",
+      "price": "80.0",
+      "description": "Categoría: Bolso",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Tory Burch",
+      "price": "80.0",
+      "description": "Categoría: Bolso",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Bolsos Gucci",
+      "price": "80.0",
+      "description": "Categoría: Bolso",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Gorras",
+      "price": "40.0",
+      "description": "Categoría: Gorras",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Pulceras Louis Vuitton",
+      "price": "30.0",
+      "description": "Categoría: Pulsera",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Pulceras Rolex",
+      "price": "40.0",
+      "description": "Categoría: Pulsera",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Pulcera Moissanite",
+      "price": "200.0",
+      "description": "Categoría: Pulsera",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Aretes",
+      "price": "50.0",
+      "description": "Categoría: Aretes",
+      "availability": "Disponible"
+    },
+    {
+      "name": "Cadenas 14K",
+      "price": "10.0",
+      "description": "Categoría: cadenas",
+      "availability": "Agotado/Por pedido"
+    },
+    {
+      "name": "Pulseras 14K",
+      "price": "0.0",
+      "description": "Categoría: pulseras",
+      "availability": "Agotado/Por pedido"
+    }
+  ]
+}

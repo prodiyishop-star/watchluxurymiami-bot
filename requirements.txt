@@ -1,0 +1,32 @@
+# ============================================
+# CHATBOT - Dependencias del proyecto
+# ============================================
+
+# Servidor web
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# Claude AI (cerebro del bot)
+anthropic==0.40.0
+
+# Base de datos
+sqlalchemy==2.0.36
+aiosqlite==0.20.0
+
+# HTTP cliente (para APIs de redes sociales)
+httpx==0.27.2
+requests==2.32.3
+
+# Validación de datos
+pydantic==2.9.2
+pydantic-settings==2.6.1
+
+# Variables de entorno
+python-dotenv==1.0.1
+
+# Utilidades
+python-multipart==0.0.12
+python-jose[cryptography]==3.3.0
+
+# Procesamiento de texto
+tiktoken==0.8.0

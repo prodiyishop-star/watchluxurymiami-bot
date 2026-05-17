@@ -1,0 +1,14 @@
+{
+  "business_name": "Watch Luxury Miami",
+  "owner": "Yeremi",
+  "phone": "(786) 829-3674",
+  "location": "Miami, Florida, USA",
+  "shipping": "We ship to all 50 US states. Shipping cost: $10 flat. Delivery time: 3-5 business days.",
+  "local_delivery": "We offer local delivery in Miami for $10. We call the customer when the delivery arrives. We need the customer's address and phone number.",
+  "payment_methods": ["Zelle", "CashApp", "Credit/Debit Card (7% processing fee)"],
+  "wholesale": "Yes, we offer wholesale pricing for bulk orders. Contact us for a custom quote.",
+  "loyal_customers": "We give discounts to returning customers. Prices are negotiable depending on purchase history.",
+  "bestsellers": "Men's watches and women's watches are our top sellers.",
+  "language_policy": "Respond in the same language the customer writes in. If they write in Spanish, respond in Spanish. If they write in English, respond in English.",
+  "contact": "Customers can reach us at (786) 829-3674 by call or through Messenger/chat."
+}

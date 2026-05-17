@@ -1,0 +1,64 @@
+{
+  "faqs": [
+    {
+      "question": "Do you ship?",
+      "answer": "Yes! We ship anywhere in the US 📦 Shipping costs $10 and takes 3-5 business days."
+    },
+    {
+      "question": "How long does shipping take?",
+      "answer": "3 to 5 business days anywhere in the US. If you're in Miami we also offer local delivery for $10 — we call you as soon as it arrives!"
+    },
+    {
+      "question": "Do you deliver in Miami?",
+      "answer": "Yes! We do local delivery in Miami for $10. We'll need your address and phone number so we can call you when the delivery arrives."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept Zelle, CashApp, and credit/debit cards. Note: card payments have a 7% processing fee."
+    },
+    {
+      "question": "Do you offer wholesale prices?",
+      "answer": "Yes! We have special prices for bulk orders. Send us a message with what you need and we'll give you the best deal."
+    },
+    {
+      "question": "Do you give discounts to returning customers?",
+      "answer": "Absolutely! We take care of our loyal customers. The more you shop with us, the better the deal we can offer you."
+    },
+    {
+      "question": "How can I pay?",
+      "answer": "You can pay via Zelle, CashApp, or card (7% fee applies for card payments)."
+    },
+    {
+      "question": "Where are you located?",
+      "answer": "We're based in Miami, FL. We ship anywhere in the US and offer local delivery in Miami for $10."
+    },
+    {
+      "question": "What's your phone number?",
+      "answer": "You can reach us at (786) 829-3674 or right here through chat — whichever works best for you!"
+    },
+    {
+      "question": "¿Hacen envíos?",
+      "answer": "¡Sí! Enviamos a todo Estados Unidos 📦 El envío cuesta $10 y tarda de 3 a 5 días hábiles."
+    },
+    {
+      "question": "¿Hacen delivery en Miami?",
+      "answer": "¡Sí! Hacemos delivery en Miami por $10. Necesitamos tu dirección y número de teléfono para llamarte cuando llegue el delivery."
+    },
+    {
+      "question": "¿Qué métodos de pago aceptan?",
+      "answer": "Aceptamos Zelle, CashApp y tarjetas de crédito/débito. Las tarjetas tienen un cargo adicional del 7%."
+    },
+    {
+      "question": "¿Tienen precios al mayor?",
+      "answer": "¡Claro! Tenemos precios especiales para compras al mayor. Escríbenos con lo que necesitas y te damos el mejor precio."
+    },
+    {
+      "question": "¿Cuánto cuesta el envío?",
+      "answer": "El envío a cualquier parte de Estados Unidos cuesta $10 y llega en 3 a 5 días hábiles."
+    },
+    {
+      "question": "¿Cuál es su número de teléfono?",
+      "answer": "Puedes contactarnos al (786) 829-3674 o aquí mismo por chat, como prefieras."
+    }
+  ]
+}

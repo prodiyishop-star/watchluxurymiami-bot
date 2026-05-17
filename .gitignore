@@ -1,0 +1,39 @@
+# Variables de entorno (¡NUNCA subir al repositorio!)
+.env
+.env.local
+.env.production
+
+# Base de datos
+database/chatbot.db
+database/*.db
+database/*.db-journal
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Datos sensibles
+knowledge/private/
+training/data/
+CUENTAS_PRIVADO.md
